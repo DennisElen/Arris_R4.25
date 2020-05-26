@@ -6,3 +6,4 @@ Disallow:
 
 #Added feature A to the code
 #Added feature B to the code
+#Added bugfix to feature B to the code
