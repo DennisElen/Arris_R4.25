@@ -1,0 +1,1 @@
+This file contains the release notes of the current build
